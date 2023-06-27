@@ -1,6 +1,6 @@
 # SUDA at CAMRP2023
 
-This repository contains the system we submitted as [CAMRP2023](https://github.com/GoThereGit/Chinese-AMR). 
+This repository contains the system we submitted at [CAMRP2023](https://github.com/GoThereGit/Chinese-AMR). 
 
 
 ## Intro
