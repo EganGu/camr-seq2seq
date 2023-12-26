@@ -87,3 +87,16 @@ Graph ensemble method can significantly improve performance. We improved the int
     python tools/graphene_fast.py \
         --gold (optional)data/ccl2023/test.pre \
         --data ensemble-dir
+
+## Citation
+If you find this repo helpful, please cite the following paper:
+
+    @inproceedings{gu-etal-2023-ccl23,
+        title = "System Report for {CCL}23-Eval Task 2: Autoregressive and Non-autoregressive {C}hinese {AMR} Semantic Parsing based on Graph Ensembling",
+        author = "Gu, Yanggan  and
+        Zhou, Shilin  and
+        Li, Zhenghua",
+        booktitle = "Proceedings of the 22nd Chinese National Conference on Computational Linguistics (Volume 3: Evaluations)",
+        year = "2023",
+        publisher = "Chinese Information Processing Society of China",
+    }
